@@ -1,1 +1,1 @@
-![скрин](https://github.com/kidomson/test/blob/main/scr/b1.PNG)
+![скрин](https://github.com/kidomson/test/blob/main/Test_1/scr/b1.PNG)
